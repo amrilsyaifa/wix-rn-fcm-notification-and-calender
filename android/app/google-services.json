@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198300176631",
+    "firebase_url": "https://rnpushnotif-6a5c8.firebaseio.com",
+    "project_id": "rnpushnotif-6a5c8",
+    "storage_bucket": "rnpushnotif-6a5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198300176631:android:348023d54a9dec61fbc3f2",
+        "android_client_info": {
+          "package_name": "com.wix_rn_notification_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198300176631-c13h10eq6bicqn2b3lohsb36tajutvct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkqF6r655Zq-oKySqitpFfmCXIZdpqJSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198300176631-c13h10eq6bicqn2b3lohsb36tajutvct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
